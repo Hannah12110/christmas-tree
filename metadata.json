@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Grand Luxury Interactive Christmas Tree",
+  "description": "A high-fidelity 3D interactive experience featuring a morphing, cinematic Christmas tree with physics-based gesture controls and luxury aesthetics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
