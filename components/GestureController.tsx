@@ -19,6 +19,7 @@ interface GestureControllerProps {
 }
 
 export const GestureController: React.FC<GestureControllerProps> = ({ interactionRef }) => {
+  return null;
   const videoRef = useRef<HTMLVideoElement>(null);
   const [isModelLoaded, setIsModelLoaded] = useState(false);
   const [isEnabled, setIsEnabled] = useState(false); // Default closed as requested
